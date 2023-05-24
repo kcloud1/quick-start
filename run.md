@@ -12,4 +12,10 @@ brew install node@18 yarn
 ```
 yarn add --dev @electron-forge/cli
 npx electron-forge import
+yarn make
+
+```
+* To run the app
+```
+open ./out/quick-start-electronjs-darwin-x64/quick-start-electronjs.app
 ```
